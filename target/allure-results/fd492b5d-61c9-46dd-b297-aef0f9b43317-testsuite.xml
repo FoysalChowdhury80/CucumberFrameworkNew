@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1610170303807" stop="1610170363190" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify user can place an order by adding a new credit card</name>
+    <title>Verify user can place an order by adding a new credit card</title>
+    <test-cases>
+        <test-case start="1610170303826" stop="1610170303830" status="passed">
+            <name>When I click on sign in button</name>
+            <title>When I click on sign in button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170304217" stop="1610170304217" status="passed">
+            <name>And I enter 'Wmw@gmail.com' as my email</name>
+            <title>And I enter 'Wmw@gmail.com' as my email</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170304336" stop="1610170304336" status="passed">
+            <name>And I enter '12345ff' as my password</name>
+            <title>And I enter '12345ff' as my password</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170304753" stop="1610170304753" status="passed">
+            <name>And I click on sighin in button</name>
+            <title>And I click on sighin in button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170320713" stop="1610170320713" status="passed">
+            <name>And I minimize bar</name>
+            <title>And I minimize bar</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170321050" stop="1610170321050" status="passed">
+            <name>And I move to enter order button</name>
+            <title>And I move to enter order button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170323664" stop="1610170323665" status="passed">
+            <name>And I select student flyer order</name>
+            <title>And I select student flyer order</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170323856" stop="1610170323856" status="passed">
+            <name>And I enter 'Harry' as student name</name>
+            <title>And I enter 'Harry' as student name</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170323944" stop="1610170323944" status="passed">
+            <name>And I enter '1V2' as item name</name>
+            <title>And I enter '1V2' as item name</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170324021" stop="1610170324021" status="passed">
+            <name>And I click add button</name>
+            <title>And I click add button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170324250" stop="1610170324250" status="passed">
+            <name>And I enter '2' as item quantity</name>
+            <title>And I enter '2' as item quantity</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170324331" stop="1610170324331" status="passed">
+            <name>And I enter '2V2' as item name</name>
+            <title>And I enter '2V2' as item name</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170324420" stop="1610170324421" status="passed">
+            <name>And I click add button</name>
+            <title>And I click add button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170324619" stop="1610170324619" status="passed">
+            <name>And I enter '3' as item quantity</name>
+            <title>And I enter '3' as item quantity</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170324732" stop="1610170324732" status="passed">
+            <name>And I enter '3V2' as item name</name>
+            <title>And I enter '3V2' as item name</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170324842" stop="1610170324842" status="passed">
+            <name>And I click add button</name>
+            <title>And I click add button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170325069" stop="1610170325069" status="passed">
+            <name>And I enter '3' as item quantity</name>
+            <title>And I enter '3' as item quantity</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170326620" stop="1610170326620" status="passed">
+            <name>And I click review button</name>
+            <title>And I click review button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170326757" stop="1610170326757" status="passed">
+            <name>And I click proceed to checkout</name>
+            <title>And I click proceed to checkout</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170328161" stop="1610170328161" status="passed">
+            <name>And I click proceed</name>
+            <title>And I click proceed</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170330381" stop="1610170330381" status="passed">
+            <name>And I click on continue check out button</name>
+            <title>And I click on continue check out button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170330777" stop="1610170330777" status="passed">
+            <name>And I select credit card option</name>
+            <title>And I select credit card option</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170362965" stop="1610170362980" status="broken">
+            <name>And I select add a new card</name>
+            <title>And I select add a new card</title>
+            <failure>
+                <message>TimeoutException: Expected condition failed: Element is not found after 30 seconds of wait (tried for 30 second(s) with 1000 milliseconds interval)</message>
+                <stack-trace>org.openqa.selenium.TimeoutException: Expected condition failed: Element is not found after 30 seconds of wait (tried for 30 second(s) with 1000 milliseconds interval)
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:315)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
+	at Pages.BasePage.findElementUsingFluentWait(BasePage.java:30)
+	at Pages.BasePage.clickThis(BasePage.java:61)
+	at Pages.Scholastic.ShippingAndPaymentPage.selectCard(ShippingAndPaymentPage.java:65)
+	at StepDefinition.Scholastic.YtoSfoNonZeroTaxSD.selectANewCard(YtoSfoNonZeroTaxSD.java:64)
+	at ✽.And I select add a new card(Scholastic/AddANewCreditCard.feature:34)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(text(),'Select a Card')]"}
+  (Session info: chrome=87.0.4280.88)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'MacBook-Pro-5.home', ip: 'fd4b:8d38:69ba:1:9cf2:3754:4f09:392a%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/0x/m7q9c0sx5vg...}, goog:chromeOptions: {debuggerAddress: localhost:52473}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: bd64ad066ac1d21b153ac15745002329
+*** Element info: {Using=xpath, value=//div[contains(text(),'Select a Card')]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+	at Pages.BasePage$1.apply(BasePage.java:32)
+	at Pages.BasePage$1.apply(BasePage.java:30)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
+	at Pages.BasePage.findElementUsingFluentWait(BasePage.java:30)
+	at Pages.BasePage.clickThis(BasePage.java:61)
+	at Pages.Scholastic.ShippingAndPaymentPage.selectCard(ShippingAndPaymentPage.java:65)
+	at StepDefinition.Scholastic.YtoSfoNonZeroTaxSD.selectANewCard(YtoSfoNonZeroTaxSD.java:64)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at cucumber.runtime.Utils$1.call(Utils.java:37)
+	at cucumber.runtime.Timeout.timeout(Timeout.java:13)
+	at cucumber.runtime.Utils.invoke(Utils.java:31)
+	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)
+	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
+	at cucumber.runtime.Runtime.runStep(Runtime.java:299)
+	at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
+	at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
+	at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)
+	at cucumber.runtime.junit.ExecutionUnitRunner.run(ExecutionUnitRunner.java:91)
+	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:63)
+	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:18)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:70)
+	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:93)
+	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:37)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at cucumber.api.junit.Cucumber.run(Cucumber.java:98)
+	at org.junit.runners.Suite.runChild(Suite.java:127)
+	at org.junit.runners.Suite.runChild(Suite.java:26)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:160)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:138)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.createRequestAndRun(JUnitCoreWrapper.java:108)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.executeEager(JUnitCoreWrapper.java:78)
+	at org.apache.maven.surefire.junitcore.JUnitCoreWrapper.execute(JUnitCoreWrapper.java:54)
+	at org.apache.maven.surefire.junitcore.JUnitCoreProvider.invoke(JUnitCoreProvider.java:144)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170362986" stop="1610170362987" status="pending">
+            <name>And I enter '4111111111111111' as credit card number</name>
+            <title>And I enter '4111111111111111' as credit card number</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170362998" stop="1610170362998" status="pending">
+            <name>And I select '03' as month</name>
+            <title>And I select '03' as month</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170362999" stop="1610170362999" status="pending">
+            <name>And I select year '2023' as year</name>
+            <title>And I select year '2023' as year</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170363001" stop="1610170363001" status="pending">
+            <name>And I enter '111' as security code</name>
+            <title>And I enter '111' as security code</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170363002" stop="1610170363002" status="pending">
+            <name>And I enter 'mmm' as first name</name>
+            <title>And I enter 'mmm' as first name</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170363004" stop="1610170363004" status="pending">
+            <name>And I enter 'www' as ;ast name</name>
+            <title>And I enter 'www' as ;ast name</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170363005" stop="1610170363005" status="pending">
+            <name>And I enter '2278 Holland Ave' as address1</name>
+            <title>And I enter '2278 Holland Ave' as address1</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170363006" stop="1610170363006" status="pending">
+            <name>And I enter 'Apt#179' as address2</name>
+            <title>And I enter 'Apt#179' as address2</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170363008" stop="1610170363008" status="pending">
+            <name>And I enter '10467' as zip code</name>
+            <title>And I enter '10467' as zip code</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170363010" stop="1610170363010" status="pending">
+            <name>And I enter '3333333333' as cell no</name>
+            <title>And I enter '3333333333' as cell no</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170363011" stop="1610170363011" status="pending">
+            <name>And I click continue checkout button</name>
+            <title>And I click continue checkout button</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170363012" stop="1610170363013" status="pending">
+            <name>And I click submit</name>
+            <title>And I click submit</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170363014" stop="1610170363014" status="pending">
+            <name>Then I verify a thank you text displayed for the order</name>
+            <title>Then I verify a thank you text displayed for the order</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify user can place an order by adding a new credit card"/>
+        <label name="feature" value="Add a new credit card"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

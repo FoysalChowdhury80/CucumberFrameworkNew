@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1610170407443" stop="1610170418620" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify teacher can add multiple books for a student in SFO</name>
+    <title>Verify teacher can add multiple books for a student in SFO</title>
+    <test-cases>
+        <test-case start="1610170407444" stop="1610170407444" status="passed">
+            <name>When I click on sign in button</name>
+            <title>When I click on sign in button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170407857" stop="1610170407857" status="passed">
+            <name>And I enter 'fname@gmail.com' as my email</name>
+            <title>And I enter 'fname@gmail.com' as my email</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170408008" stop="1610170408008" status="passed">
+            <name>And I enter '12345ff' as my password</name>
+            <title>And I enter '12345ff' as my password</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170408118" stop="1610170408118" status="passed">
+            <name>And I click on sighin in button</name>
+            <title>And I click on sighin in button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170411619" stop="1610170411619" status="passed">
+            <name>And I minimize bar</name>
+            <title>And I minimize bar</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170411800" stop="1610170411800" status="passed">
+            <name>And I move to enter order button</name>
+            <title>And I move to enter order button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170416950" stop="1610170416950" status="passed">
+            <name>And I select student flyer order</name>
+            <title>And I select student flyer order</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170417275" stop="1610170417275" status="passed">
+            <name>And I enter 'Harry' as student name</name>
+            <title>And I enter 'Harry' as student name</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170417378" stop="1610170417378" status="passed">
+            <name>And I enter '1V2' as item name</name>
+            <title>And I enter '1V2' as item name</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170417467" stop="1610170417467" status="passed">
+            <name>And I click add button</name>
+            <title>And I click add button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170417701" stop="1610170417701" status="passed">
+            <name>And I enter '2' as item quantity</name>
+            <title>And I enter '2' as item quantity</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170417780" stop="1610170417780" status="passed">
+            <name>And I enter '2V2' as item name</name>
+            <title>And I enter '2V2' as item name</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170417886" stop="1610170417886" status="passed">
+            <name>And I click add button</name>
+            <title>And I click add button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170418031" stop="1610170418031" status="passed">
+            <name>And I enter '3' as item quantity</name>
+            <title>And I enter '3' as item quantity</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170418130" stop="1610170418130" status="passed">
+            <name>And I enter '3V2' as item name</name>
+            <title>And I enter '3V2' as item name</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170418186" stop="1610170418186" status="passed">
+            <name>And I click add button</name>
+            <title>And I click add button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170418384" stop="1610170418384" status="passed">
+            <name>And I enter '3' as item quantity</name>
+            <title>And I enter '3' as item quantity</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170418515" stop="1610170418515" status="failed">
+            <name>And I verify Student name, Item, and quantity are displayed as expected</name>
+            <title>And I verify Student name, Item, and quantity are displayed as expected</title>
+            <failure>
+                <message>AssertionError: Expected and actual are not same expected [] but found [2]</message>
+                <stack-trace>java.lang.AssertionError: Expected and actual are not same expected [] but found [2]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:134)
+	at org.testng.Assert.assertEquals(Assert.java:115)
+	at org.testng.Assert.assertEquals(Assert.java:189)
+	at StepDefinition.Scholastic.SfoMultipleOrderSD.verifyNameItemQuantity(SfoMultipleOrderSD.java:89)
+	at ✽.And I verify Student name, Item, and quantity are displayed as expected(Scholastic/SfoMultipleOrder.feature:28)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170418517" stop="1610170418517" status="pending">
+            <name>And I click review button</name>
+            <title>And I click review button</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1610170418519" stop="1610170418519" status="pending">
+            <name>And I verify Harry total and SFO total and total as expected of the calculation</name>
+            <title>And I verify Harry total and SFO total and total as expected of the calculation</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MacBook-Pro-5.home"/>
+                <label name="thread" value="2642@MacBook-Pro-5.home.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify teacher can add multiple books for a student in SFO"/>
+        <label name="feature" value="Student Flyer Order"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,15 @@
+Pages/BasePage.class
+Pages/Scholastic/SighnInPage.class
+Pages/Scholastic/CheckOutPage.class
+Pages/Scholastic/FinalCheckOutPage.class
+DriverWrapper/Web.class
+Pages/BasePage$1.class
+Pages/Scholastic/ReviewPage.class
+StepDefinition/Scholastic/YtoSfoNonZeroTaxSD.class
+StepDefinition/Scholastic/SfoMultipleOrderSD.class
+Pages/Scholastic/SfoPage.class
+Pages/Scholastic/SubmitPage.class
+Pages/Scholastic/ShippingAndPaymentPage.class
+TestRunner.class
+Pages/BasePage$2.class
+Pages/Scholastic/LandingPage.class
